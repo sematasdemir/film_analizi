@@ -10,5 +10,5 @@ Bu proje, film endüstrisindeki yapımların finansal başarılarını, bütçel
 ##  Canlı Rapor Bağlantısı (Yönetici Özeti)
 İstatistiksel analizleri, grafikleri ve proje bulgularını içeren detaylı HTML raporuna (kod blokları gizlenmiş Yönetici Özeti versiyonu) aşağıdaki bağlantıdan ulaşabilirsiniz:
 
- **[Proje Raporunu Görüntülemek İçin Tıklayın](BURAYA_LINK_GELECEK)**
+ **[Proje Raporunu Görüntülemek İçin Tıklayın](https://sematasdemir.github.io/film_analizi/)**
 
